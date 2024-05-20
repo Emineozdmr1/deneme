@@ -1,22 +1,25 @@
-{"Kahramanmaraş":[
+{"Kahramanmaras":[
 {
-"isim":Ali Kayası",
+"isim":"Ali Kayası",
 "aciklama":"muhteşem manzara",
 "fotourl":"https://raw.github.com/Emineozdmr1/deneme/blob/main/alikayas%C4%B1.jpg"
-},
-{"isim":Taş Köprü",
+}
+] ,
+  "Tarihi_yerler":[
+{"isim":"Taş Köprü",
 "aciklama":"Tarihi Yer",
 "fotourl":"https://raw.github.com/Emineozdmr1/deneme/blob/main/ta%C5%9Fk%C3%B6pr%C3%BC.jpg"
-},
-{"isim":Maraş Dondurması",
+}],
+  "meşhur_yemekler":[
+{"isim":"Maraş Dondurması",
 "aciklama":"eşsiz tat",
 "fotourl":"https://raw.github.com/Emineozdmr1/deneme/blob/main/dondurma.jpg"
 },
-{"isim":Tarhana",
+{"isim":"Tarhana",
 "aciklama":"bir nevi cips",
 "fotourl":"https://raw.github.com/Emineozdmr1/deneme/blob/main/tarhana.jpg"
 },
-{"isim":Eli Böğründe",
+{"isim":"Eli Böğründe",
 "aciklama":"enfes lezzet",
 "fotourl":"https://raw.github.com/Emineozdmr1/deneme/blob/main/elib%C3%B6%C4%9Fr%C3%BCnde.jpg"
 
